@@ -9,8 +9,8 @@
   - Any critical issue should be parked
 
 - __Retrospective Meetings__
- - Restrospective meetings on Friday for _30 minutes_ 
- - Identify the actions items and action owners
+  - Restrospective meetings on Friday for _30 minutes_ 
+  - Identify the actions items and action owners
 
 - __Pre IPM / Sprint Planning / Refinement__
   - on Saturdays
